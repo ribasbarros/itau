@@ -94,6 +94,7 @@ Chrome
 Edge
 ![Alt text](https://github.com/ribasbarros/itau/blob/master/itau-doc/browser_edge.png?raw=true "Browser Edge")
 
+Android
 ![Alt text](https://github.com/ribasbarros/itau/blob/master/itau-doc/browser_chrome_android.jpg?raw=true "Browser Chrome Android")
 
 ## Tabelas
