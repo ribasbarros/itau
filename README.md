@@ -85,21 +85,26 @@ http://localhost:8080/swagger-ui.html
 
 ![Alt text](https://github.com/ribasbarros/itau/blob/master/itau-doc/coverage_junit.png?raw=true "Cobertura de testes e Testes unitários")
 
-Please make sure to update tests as appropriate.
-
 ## Evidências
+
 Chrome
+
 ![Alt text](https://github.com/ribasbarros/itau/blob/master/itau-doc/browser_chrome.png?raw=true "Browser Chrome")
 
 Edge
+
 ![Alt text](https://github.com/ribasbarros/itau/blob/master/itau-doc/browser_edge.png?raw=true "Browser Edge")
 
 Android
+
 ![Alt text](https://github.com/ribasbarros/itau/blob/master/itau-doc/browser_chrome_android.jpg?raw=true "Browser Chrome Android")
 
 ## Tabelas
+
 TB_AGENCY
+
 ![Alt text](https://github.com/ribasbarros/itau/blob/master/itau-doc/tb_agency.png?raw=true "Browser Chrome")
 
 TB_COLLECT
+
 ![Alt text](https://github.com/ribasbarros/itau/blob/master/itau-doc/tb_collect.png?raw=true "Browser Chrome")
