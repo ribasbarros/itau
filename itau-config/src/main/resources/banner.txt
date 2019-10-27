@@ -1,0 +1,17 @@
+IIIIIIIIII         tttt                                              
+I::::::::I      ttt:::t                                              
+I::::::::I      t:::::t                                              
+II::::::II      t:::::t                                              
+  I::::I  ttttttt:::::ttttttt      aaaaaaaaaaaaa   uuuuuu    uuuuuu  
+  I::::I  t:::::::::::::::::t      a::::::::::::a  u::::u    u::::u  
+  I::::I  t:::::::::::::::::t      aaaaaaaaa:::::a u::::u    u::::u  
+  I::::I  tttttt:::::::tttttt               a::::a u::::u    u::::u  
+  I::::I        t:::::t              aaaaaaa:::::a u::::u    u::::u  
+  I::::I        t:::::t            aa::::::::::::a u::::u    u::::u  
+  I::::I        t:::::t           a::::aaaa::::::a u::::u    u::::u  
+  I::::I        t:::::t    tttttta::::a    a:::::a u:::::uuuu:::::u  
+II::::::II      t::::::tttt:::::ta::::a    a:::::a u:::::::::::::::uu
+I::::::::I      tt::::::::::::::ta:::::aaaa::::::a  u:::::::::::::::u
+I::::::::I        tt:::::::::::tt a::::::::::aa:::a  uu::::::::uu:::u
+IIIIIIIIII          ttttttttttt    aaaaaaaaaa  aaaa    uuuuuuuu  uuuu
+
